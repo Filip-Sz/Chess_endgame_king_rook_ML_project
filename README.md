@@ -2,7 +2,7 @@
 
 ## Warsaw University of Technology
 
-### Authors: Filip Szympliński, Jędrzej Sokołowski (https://github.com/sokolowskij)
+### Authors: Filip Szympliński (https://github.com/Filip-Sz), Jędrzej Sokołowski (https://github.com/sokolowskij)
 
 The goal of this project was to develop an ML model, that predicts how many moves have left to end a chess game or if there is a draw.
 
